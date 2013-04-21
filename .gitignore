@@ -1,10 +1,6 @@
 #################
 ## Custom
 #################
-BSF/*.*
-BSF/Library/
-BSF/Temp/
-BSF/ProjectSettings/
 
 #################
 ## Eclipse
